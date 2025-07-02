@@ -2,4 +2,4 @@
 	url = https://github.com/ellaking001/hbb_common.git
 [submodule "libs/hbb_common"]
 	path = libs/hbb_common
-	url = https://github.com/ellaking001/hbb_common
+	url = https://github.com/ellaking001/hbb_common.git
