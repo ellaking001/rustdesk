@@ -1,5 +1,5 @@
-[submodule "libs/hbb_common"]
-	path = libs/hbb_common
-	url = https://github.com/ellaking001/hbb_common
 [submodule "hbb_common"]
+	url = https://github.com/ellaking001/hbb_common.git
+[submodule "libs/hbb_commo"]
+	path = libs/hbb_commo
 	url = https://github.com/ellaking001/hbb_common.git
